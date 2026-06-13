@@ -44,7 +44,7 @@ Movie information extraction and analysis tool.
 ### Automation
 all automation projects
 
-🔗 Repository: https://github.com/yourusername/startup-evaluator
+🔗 Repository: https://github.com/shivani-vishwakarmaa/AI-automations
 
 ---
 
