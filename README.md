@@ -14,8 +14,8 @@ Aspiring Data Analyst and AI Developer passionate about building AI-powered appl
 - Data Visualization
 
 ### Portfolio Links
-[Data analyst portfolio](https://shivani-vishwakarmaa.github.io/Data-analysis-portfolio/)
-[AI Engineer portfolio](https://shivani-vishwakarmaa.github.io/portfolio/)
+- [Data analyst portfolio](https://shivani-vishwakarmaa.github.io/Data-analysis-portfolio/) 
+- [AI Engineer portfolio](https://shivani-vishwakarmaa.github.io/portfolio/)
 
 
 ## 🤖 AI Applications
