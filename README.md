@@ -1,5 +1,18 @@
 # Shivani Vishwakarma - Project Portfolio
 
+Aspiring Data Analyst and AI Developer passionate about building AI-powered applications, data analysis solutions, and automation workflows.
+
+## Skills
+
+- Python
+- SQL
+- Power BI
+- Flask
+- LangChain
+- Machine Learning
+- AI Automation
+- Data Visualization
+- 
 ## 🤖 AI Applications
 
 ### DocTutor AI
