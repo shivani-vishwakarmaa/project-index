@@ -23,7 +23,7 @@ Movie information extraction and analysis tool.
 
 ---
 
-### Startup Evaluator
+### Automation
 all automation projects
 
 🔗 Repository: https://github.com/yourusername/startup-evaluator
