@@ -27,10 +27,10 @@ AI-powered PDF chatbot built using LangChain, ChromaDB, and Mistral AI.
 
 ---
 
-### AI Data Explainer
+### AI Data Profiler
 AI assistant for understanding datasets and CSV files.
 
-🔗 Repository: https://github.com/shivani-vishwakarmaa/AI-Data-Explainer
+🔗 Repository: [https://github.com/shivani-vishwakarmaa/AI-Data-Profiler](https://github.com/shivani-vishwakarmaa/AI-Dataset-Profiler)
 
 ---
 
