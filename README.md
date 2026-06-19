@@ -41,6 +41,12 @@ Movie information extraction and analysis tool.
 
 ---
 
+### Linkedin Postgen
+AI-powered assistant for generating personalized LinkedIn posts that match your writing style, voice, and preferences.
+
+🔗 Repository: https://github.com/shivani-vishwakarmaa/LinkedIn-PostGen
+
+---
 ### Automation
 all automation projects
 
